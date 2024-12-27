@@ -3,9 +3,7 @@
 these shine, rotate and change colors </br> 
 (scroll down to see animation or visit https://editor.p5js.org/iriskurien/sketches/ExwlmCdEb) </br>
 
-![Frame 8](https://github.com/user-attachments/assets/2e36acb5-a1d8-4b82-9a2c-be9bf886f2d7)
-
-
+![all-the-flakes](https://github.com/user-attachments/assets/fd3d7766-25bf-42bd-a76b-b49731b43bdb)
 
 https://github.com/user-attachments/assets/8b346bc7-7782-4eaf-a58e-fca30039c99f
 
