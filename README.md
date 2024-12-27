@@ -1,9 +1,10 @@
 # SLAY-THE-CODE<img src="https://cdn3.emoji.gg/emojis/41356-grinchornament.png" width="60"/>  
 ## Creation 1- animated snowflakes using p5.js
-these shine, rotate and change colors </br> (scroll down to see animation or visit https://editor.p5js.org/iriskurien/sketches/ExwlmCdEb ) </br>
+these shine, rotate and change colors </br> 
+(scroll down to see animation or visit https://editor.p5js.org/iriskurien/sketches/ExwlmCdEb) </br>
 
+![Frame 8](https://github.com/user-attachments/assets/2e36acb5-a1d8-4b82-9a2c-be9bf886f2d7)
 
-![all-the-flakes](https://github.com/user-attachments/assets/7dbd67d5-04e0-4084-ac4e-88eb29fd921f)
 
 
 https://github.com/user-attachments/assets/8b346bc7-7782-4eaf-a58e-fca30039c99f
